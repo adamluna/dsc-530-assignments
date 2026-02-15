@@ -1,4 +1,13 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# macOS
+.DS_Store.ipynb_checkpoints/
 __pycache__/
 *.pyc
 .DS_Store
