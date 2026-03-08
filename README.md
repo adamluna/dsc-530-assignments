@@ -3,11 +3,24 @@
 This repository contains coursework completed as part of the Master of Science in Data Science program at Bellevue University.
 
 **Course:** DSC 530 – Data Exploration and Analysis  
-**Institution:** Bellevue University
+**Institution:** Bellevue University  
 
-The assignments in this repository focus on introductory data exploration tasks using Python and pandas, including data cleaning, reshaping, visualization, and exploratory analysis.
+The assignments in this repository focus on exploratory data analysis using Python. The coursework emphasizes preparing datasets for analysis, performing statistical exploration, visualizing data, and applying modeling techniques to understand patterns within data.
 
-The course also culminates in a final project that applies exploratory data analysis, statistical testing, and basic machine learning techniques to a real-world dataset.
+The course culminates in a final project that applies exploratory analysis, statistical testing, and modeling techniques to a real-world dataset.
+
+---
+
+## Featured Project
+
+### Exploratory Data Analysis of Spotify Tracks
+
+The final project analyzes relationships between musical genres and audio features using a Spotify tracks dataset from Kaggle. The analysis includes exploratory data analysis, statistical hypothesis testing, regression modeling, classification, and clustering techniques.
+
+📊 **View the notebook:**  
+https://nbviewer.org/github/adamluna/dsc-530-assignments/blob/master/final-project/LunaA_DSC530_FinalProject.ipynb
+
+---
 
 ## Repository Structure
 
@@ -24,21 +37,45 @@ dsc-530-assignments
 
 Each folder contains Jupyter notebooks and documentation related to the assignments for that portion of the course.
 
-## Final Project
+---
 
-The final project explores relationships between audio features and musical genres using a Spotify tracks dataset.  
-The analysis includes exploratory data analysis, hypothesis testing, regression modeling, classification, and clustering.
+## Assignments
 
-The full project can be found in:
+| Assignment | Topic |
+|---|---|
+| Weeks 1–2 | Preparing for Exploratory Data Analysis, Data Manipulation, and Processing |
+| Weeks 3–4 | Sampling Methods, Descriptive Statistics, and Data Distribution |
+| Weeks 5–6 | Data Aggregation, Exploration, and Test Statistics |
+| Weeks 7–8 | Data Visualization and Customization Techniques |
+| Weeks 9–10 | Regression, Classification, and Clustering Analysis |
+| Final Project | Exploratory Data Analysis of Spotify Tracks |
 
-```
-final-project/
-```
+---
+
+## Topics Covered
+
+Across these assignments, the following techniques and concepts are applied:
+
+- Data cleaning and preprocessing
+- Data manipulation and reshaping with pandas
+- Sampling and descriptive statistics
+- Covariance and correlation analysis
+- Data aggregation and grouping
+- Pivot tables and crosstabs
+- Time-series and rolling statistics
+- Data visualization and statistical graphics
+- Outlier detection
+- Regression analysis
+- Classification models
+- Clustering analysis
+
+---
 
 ## Tools and Technologies
 
 - Python
 - pandas
+- NumPy
 - matplotlib
 - seaborn
 - scikit-learn

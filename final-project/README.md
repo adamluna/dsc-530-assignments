@@ -22,6 +22,7 @@ You can view the full notebook with rendered outputs here:
 
 - Python
 - pandas
+- NumPy
 - matplotlib
 - seaborn
 - scikit-learn
