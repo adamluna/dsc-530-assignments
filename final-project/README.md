@@ -8,7 +8,7 @@ The work is implemented in a Jupyter Notebook using Python libraries such as pan
 
 You can view the full notebook with rendered outputs here:
 
-[Open Notebook in nbviewer](NBVIEWER_LINK_HERE)
+[Open Notebook in nbviewer](https://nbviewer.org/github/adamluna/dsc-530-assignments/blob/master/final-project/LunaA_DSC530_FinalProject.ipynb)
 
 ### Key Techniques
 
